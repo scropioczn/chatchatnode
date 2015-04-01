@@ -1,0 +1,190 @@
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+[0mGET /get_contacts?id=asd [36m304 [0m76.952 ms - -[0m
+[0mGET /get_contacts?id=asd [36m304 [0m76.518 ms - -[0m
+[0mGET /get_contacts?id=asd [36m304 [0m65.031 ms - -[0m
+[0mGET /get_contacts?id=asd [36m304 [0m70.922 ms - -[0m
+[0mGET /check_account?id=asd [32m200 [0m90.611 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.525 ms - 3[0m
+[0mGET /favicon.ico [33m404 [0m183.252 ms - 1236[0m
+[0mGET /check_account?id=asd [36m304 [0m71.271 ms - -[0m
+[0mGET /check_account?id=ass [32m200 [0m76.449 ms - 3[0m
+[0mGET /check_account?id=ass [32m200 [0m70.678 ms - 3[0m
+[0mGET /check_account?id=ass [32m200 [0m69.797 ms - 3[0m
+[0mGET /check_account?id=ass [32m200 [0m66.461 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m69.701 ms - 3[0m
+[0mGET /check_account?id=add [32m200 [0m66.390 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m70.021 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m70.330 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m66.037 ms - 3[0m
+[0mGET /check_account?id=asdasd [32m200 [0m69.805 ms - 3[0m
+[0mGET /check_account?id=123 [32m200 [0m64.921 ms - 2[0m
+[0mGET /check_account?id= [32m200 [0m69.942 ms - 3[0m
+[0mGET / [32m200 [0m22.763 ms - 170[0m
+[0mGET /check_account?id=asd [32m200 [0m60.312 ms - 3[0m
+[0mGET /register?id=asd&password=123 [33m404 [0m8.525 ms - 1236[0m
+[0mGET /check_account?id=asd [32m200 [0m65.561 ms - 3[0m
+[0mGET /register?id=asd&password=123 [33m404 [0m8.706 ms - 1236[0m
+[0mGET /check_account?id=asd [32m200 [0m69.561 ms - 3[0m
+[0mGET /register?id=asd&password=123 [33m404 [0m8.890 ms - 1236[0m
+[0mGET /check_account?id=asd [32m200 [0m71.171 ms - 3[0m
+[0mGET /account?id=asd&password=123 [32m200 [0m72.556 ms - 2[0m
+[0mGET /account?id=asd&password=123 [32m200 [0m70.496 ms - 2[0m
+[0mGET /check_account?id=asd [32m200 [0m71.686 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.514 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.513 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.620 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m66.712 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.370 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.424 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m70.065 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m72.506 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m67.592 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.231 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m60.157 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m69.941 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.550 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m69.871 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m64.747 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.402 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.074 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m65.547 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m59.922 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m59.631 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m82.907 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m72.284 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m70.989 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m69.375 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m59.989 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m64.829 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m72.806 ms - 3[0m
+[0mGET /check_account?id=asd [32m200 [0m71.115 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m69.501 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m76.316 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m64.743 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m69.976 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m71.138 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m69.583 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.650 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m65.418 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m76.557 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m75.720 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m110.943 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m75.016 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m73.250 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m116.190 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m72.580 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m74.291 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m75.736 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m66.224 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m71.844 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m66.082 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m78.973 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m71.903 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m67.486 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m71.830 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m65.693 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m79.029 ms - 86[0m
+[0mGET /get_contacts?id=asd [32m200 [0m74.452 ms - 86[0m
+[0mGET /check_account?id=123 [32m200 [0m65.894 ms - 2[0m
+[0mGET /check_account?id=asd [32m200 [0m75.906 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m71.245 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m69.410 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m69.572 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m60.339 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m70.924 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m71.926 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m69.433 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m70.277 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m65.234 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.135 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m70.651 ms - 86[0m
+[0mGET / [32m200 [0m7.304 ms - 170[0m
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Port 3000 is already in use
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+Port 3000 is already in use
+[0mGET /check_account?id=asd [32m200 [0m65.507 ms - 2[0m
+[0mGET /check_account?id=asd [36m304 [0m70.532 ms - -[0m
+[0mGET /check_account?id=asd [32m200 [0m64.787 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m72.054 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m64.630 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m74.203 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m64.633 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m64.478 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m70.143 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.477 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m73.913 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m64.842 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m64.994 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m74.499 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m65.535 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m59.777 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m71.497 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m70.144 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m70.060 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m66.679 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m76.092 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m69.690 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m74.798 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m69.983 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m65.361 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m68.941 ms - 86[0m
+[0mGET /check_account?id=asd [32m200 [0m64.913 ms - 2[0m
+[0mGET /login?id=asd&password=123 [32m200 [0m70.218 ms - 3[0m
+[0mGET /get_contacts?id=asd [32m200 [0m72.005 ms - 86[0m
+[0mGET /send_message?if=a1&cid=a2&content=asdas&time=1111 [33m404 [0m8.648 ms - 1236[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.579 ms - -[0m
+[0mGET /send_message?id=a1&cid=a2&content=asdas&time=1111 [33m404 [0m12.595 ms - 1236[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.692 ms - -[0m
+[0mGET /get_contacts?id=asd [32m200 [0m73.013 ms - 86[0m
+[0mGET /favicon.ico [33m404 [0m7.973 ms - 1236[0m
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+{ [Error: Cannot find module '../build/Release/bson'] code: 'MODULE_NOT_FOUND' }
+js-bson: Failed to load c++ bson extension, using pure JS version
+[0mGET /send_message?id=a1&cid=a2&content=asdas&time=1111 [36m304 [0m75.393 ms - -[0m
+[0mGET /send_message?id=a1&cid=a2&content=asdas&time=1111 [36m304 [0m67.949 ms - -[0m
+[0mGET /send_message?id=a1&cid=a2&content=asdas&time=1111 [36m304 [0m66.958 ms - -[0m

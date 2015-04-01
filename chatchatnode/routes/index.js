@@ -61,4 +61,32 @@ router.get('/get_contacts', function(req, res, next) {
     });
 });
 
+// get pending messages
+router.get('/get_messages', function(req, res, next) {
+    var db = req.db;
+    var collection = db.get('message');
+    var aid = req.query['id'];
+    var acid = req.query['cid'];
+    
+    collection.find({from:acid, to:aid}, {}, function(err, docs) {
+	res.json(docs);
+	    // delete after retreival
+	    collection.remove({from:acid, to:aid}, function (err) {});
+    });
+
+});
+
+// send message
+router.get('/send_message', function(req,res,next) {
+    var db = req.db;
+    var collection = db.get('message');
+    var aid = req.query['id'];
+    var acid = req.query['cid'];
+    var acontent = req.query['content'];
+    var atime = req.query['time'];
+
+    collection.insert({from:aid, to:acid, content:acontent, time:atime}, function(err, doc) {if (err) {res.send('no');}else {res.send('yes');}  });
+
+});
+
 module.exports = router;
