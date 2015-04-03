@@ -15,7 +15,19 @@ router.get('/account', function(req, res, next) {
     var apassword = req.query['password'];
     
     collection.insert({id: aid, password: apassword}, function(err, doc) {
-	if (err){ res.send('yes');} else {res.send('no');}
+	if (err){
+	  res.send('no');
+	} else { 
+	  
+	  var contact = db.get('contact');
+	  contact.insert({id: aid, contacts: []}, function(errr, docc) {
+	    if (errr) {
+		res.send('no');
+	    } else {
+		res.send('yes');
+	    }	 
+	  });
+	}
     });     
 });
 
@@ -88,5 +100,39 @@ router.get('/send_message', function(req,res,next) {
     collection.insert({from:aid, to:acid, content:acontent, time:atime}, function(err, doc) {if (err) {res.send('no');}else {res.send('yes');}  });
 
 });
+
+// add contact
+
+router.get('/add_contact', function(req, res, next) {
+    var db = req.db;
+    var collection = db.get('contact');
+    var aid = req.query['id'];
+    var acid = req.query['cid'];
+
+    collection.findAndModify(
+    {id: aid}, 
+    {$addToSet: {contacts: {cid:acid}}},
+    function(err, doc) {
+	if (err) {
+	   res.send('no');
+	} else {
+	   // add contact on the other side
+	   collection.findAndModify(
+	    {id: acid},
+	    {$addToSet: {contacts: {cid: aid}}},
+	    function (errr, docc) {
+		if (errr) {
+		    res.send('no');
+		} else {
+		    res.send('yes');
+		}
+	    }
+	   );
+	}
+    }
+    );
+
+});
+
 
 module.exports = router;
